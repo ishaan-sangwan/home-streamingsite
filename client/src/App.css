@@ -1,0 +1,24 @@
+#App {
+  text-align: center;
+  height: 300px;
+  width: 100%;
+  /* display: flex; */
+}
+
+#title{
+  background-color: rgb(118, 0, 228);
+  color: white;
+  padding:40px;
+}
+
+body{
+  background-color: black;
+  color: white;
+}
+
+#form{
+  padding: 40 px;
+}
+#form_Division{
+  padding:30px
+}
